@@ -25,6 +25,6 @@ python3 ./route.py [start-city] [end-city] [cost-function]
 
 ```
 ## cost function is one of:
-– `segments` tries to find a route with the fewest number of road segments (i.e. edges of the graph).
-– `distance` tries to find a route with the shortest total distance.
-– `time` finds the fastest route, for a car that always travelsfive miles per hour above the speed limit.
+– `segments` tries to find a route with the fewest number of road segments (i.e. edges of the graph).  
+– `distance` tries to find a route with the shortest total distance.  
+– `time` finds the fastest route, for a car that always travelsfive miles per hour above the speed limit.  
